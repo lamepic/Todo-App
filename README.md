@@ -15,7 +15,7 @@ Node
 ### Installing
 
 ```
-Clone repo into directory
+clone repo into directory
 ```
 
 ```
