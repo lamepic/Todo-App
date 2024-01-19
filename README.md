@@ -2,33 +2,8 @@
 
 Awesome Todo-App made with react
 
-## Getting Started
+> Are you even a developer if you don't have a todo app project? 😅
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-```
-Node
-```
-
-### Installing
-
-```
-clone repo into directory
-```
-
-```
-cd into directory
-```
-
-```
-npm install
-```
-
-```
-npm start
-```
 
 ## Deployment
 
