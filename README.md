@@ -1,7 +1,5 @@
 # Todo-App
 
-Awesome Todo-App made with react
-
 > Are you even a developer if you don't have a todo app project? 😅
 
 
